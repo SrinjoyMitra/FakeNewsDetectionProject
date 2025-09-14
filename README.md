@@ -1,4 +1,4 @@
-# FakeNewsDetectionProject
+# Fake News Detection Project
 Fake News Detection Project
 Project: Combating Fake News: A Machine Learning Approach
 Objective
